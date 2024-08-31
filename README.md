@@ -32,13 +32,13 @@ You can download the APK from the following link:
 - **Retrofit**: A type-safe HTTP client for Android and Java.
 - **Navigation Component**: Manages in-app navigation using a single-activity architecture and supports complex navigational patterns with ease.
 
-Screenshots
+### Screenshots
+- List Screen and Detail Screen
 
 <p float="left">
   <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg" width="300" />
   <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg" width="300" />
 </p>
-![Character List Screen]() and ![Character Detail Screen]()
 
 ### Acknowledgments
 - **Jetpack Compose**: For modern and efficient UI development.
