@@ -10,6 +10,7 @@ This project demonstrates the use of modern Android development practices with J
 - **Paging 3**: Implements Paging 3 for smooth pagination of large datasets.
 - **Coroutines**: Handles background tasks using Kotlin Coroutines for better performance and responsiveness.
 - **Retrofit**: Configured Retrofit for API service integration and data retrieval.
+- **Navigation Component**: Integrates Jetpack Navigation Component to manage navigation and back-stack handling between composables efficiently.
 
 ### APK Download
 You can download the APK from the following link:
@@ -29,6 +30,7 @@ You can download the APK from the following link:
 - **Paging 3**: Efficiently loads and displays paginated data.
 - **Coroutines**: Simplifies asynchronous programming.
 - **Retrofit**: A type-safe HTTP client for Android and Java.
+- **Navigation Component**: Manages in-app navigation using a single-activity architecture and supports complex navigational patterns with ease.
 
 Screenshots
 
@@ -40,3 +42,5 @@ Replace URL_TO_YOUR_IMAGE_1 and URL_TO_YOUR_IMAGE_2 with the actual URLs to your
 - **Paging 3**: For handling large datasets efficiently.
 - **Coil**: For fast image loading.
 - **Retrofit**: For easy API integration.
+- **Navigation Component**: For seamless navigation and back-stack management.
+
