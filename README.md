@@ -34,9 +34,7 @@ You can download the APK from the following link:
 
 Screenshots
 
-Replace ![Character List Screen](https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg) 
-and 
-![Character Detail Screen](https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg)
+![Character List Screen](https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg) and ![Character Detail Screen](https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg)
 
 ### Acknowledgments
 - **Jetpack Compose**: For modern and efficient UI development.
