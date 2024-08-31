@@ -42,7 +42,8 @@ import com.example.physicswallahassignment.ui.navigation.NavigationRoutes
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun CharacterListScreen(
-    navController: NavController, viewModel: CharacterListViewModel = hiltViewModel()
+    navController: NavController,
+    viewModel: CharacterListViewModel = hiltViewModel()
 ) {
 //    val responseState by viewModel.characterList.collectAsStateWithLifecycle()
     val lazyPagingItems = viewModel.characterPager.collectAsLazyPagingItems()

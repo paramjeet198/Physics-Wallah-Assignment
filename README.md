@@ -36,8 +36,8 @@ You can download the APK from the following link:
 - List Screen and Detail Screen
 
 <p float="left">
-  <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg" width="300" />
-  <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg" width="300" />
+  <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg" width="300"  alt="List Screen"/>
+  <img src="https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg" width="300"  alt="Detail Screen"/>
 </p>
 
 ### Acknowledgments

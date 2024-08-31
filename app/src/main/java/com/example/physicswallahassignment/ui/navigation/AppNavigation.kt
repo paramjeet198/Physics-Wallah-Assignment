@@ -29,7 +29,7 @@ fun AppNavigation(navController: NavHostController) {
             }),
         ) {
             val id = it.arguments!!.getInt("id")
-            CharacterDetailScreen()
+            CharacterDetailScreen(navController)
         }
     }
 
