@@ -34,7 +34,7 @@ You can download the APK from the following link:
 
 Screenshots
 
-Replace URL_TO_YOUR_IMAGE_1 and URL_TO_YOUR_IMAGE_2 with the actual URLs to your images.
+Replace ![https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc-2.jpg] and ![https://github.com/paramjeet198/Physics-Wallah-Assignment/blob/master/sc%201.jpg] with the actual URLs to your images.
 
 ### Acknowledgments
 - **Jetpack Compose**: For modern and efficient UI development.
